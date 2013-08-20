@@ -16,6 +16,7 @@
     , "dependencies": {
           "ee-class":   "*"
         , "ee-log":     "*"
+        , "ee-random-data-provider": "*"
     }
     , "devDependencies": {}
     , "optionalDependencies": {}
