@@ -1,5 +1,7 @@
 # em-session-identity-cookie
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/em-session-identity-cookie.svg)](https://greenkeeper.io/)
+
 manages cookies on http requests, is a middleware for em-sesion-manager. cookies contain only the sessoin id which is created from 20 bytes hex encoded true random data.
 
 # installation
